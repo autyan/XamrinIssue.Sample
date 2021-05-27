@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCollectionView.Android", "SampleCollectionView\SampleCollectionView.Android\SampleCollectionView.Android.csproj", "{CAC54C72-4210-4A76-BD73-79F73E8380ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCollectionView", "SampleCollectionView\SampleCollectionView\SampleCollectionView.csproj", "{6C626018-4D8F-4B45-9A84-F6148A35E9D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC54C72-4210-4A76-BD73-79F73E8380ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC54C72-4210-4A76-BD73-79F73E8380ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC54C72-4210-4A76-BD73-79F73E8380ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CAC54C72-4210-4A76-BD73-79F73E8380ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC54C72-4210-4A76-BD73-79F73E8380ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC54C72-4210-4A76-BD73-79F73E8380ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6C626018-4D8F-4B45-9A84-F6148A35E9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C626018-4D8F-4B45-9A84-F6148A35E9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C626018-4D8F-4B45-9A84-F6148A35E9D1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C626018-4D8F-4B45-9A84-F6148A35E9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C626018-4D8F-4B45-9A84-F6148A35E9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C626018-4D8F-4B45-9A84-F6148A35E9D1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5749CBCC-33AD-41D3-B49F-7296E3C6736B}
+	EndGlobalSection
+EndGlobal
